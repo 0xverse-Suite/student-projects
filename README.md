@@ -15,3 +15,12 @@ This is not a monorepo for every student application.
 Actual work belongs in the relevant course repository, the cross-disciplinary capstone, or an explicitly authorized personal repository. This repository catalogs approved completed work, contribution links, case studies, and portfolio references without copying every student's files or exposing personal information.
 
 See [STUDENT_GITHUB_GUIDE.md](STUDENT_GITHUB_GUIDE.md) for contribution attribution and safe portfolio options, and [TUTOR_GUIDE.md](TUTOR_GUIDE.md) for review and portfolio-readiness guidance.
+
+## Operations
+
+- [Operational readiness](OPERATIONAL_READINESS.md)
+- [Cohort and assignment standard](COHORT_AND_ASSIGNMENT_STANDARD.md)
+- [Tutor onboarding checklist](TUTOR_ONBOARDING_CHECKLIST.md)
+- [Student onboarding checklist](STUDENT_ONBOARDING_CHECKLIST.md)
+- [Blank onboarding registry](ONBOARDING_REGISTRY_TEMPLATE.csv)
+- [Portfolio-ready standard](PORTFOLIO_READY_STANDARD.md)
